@@ -47,6 +47,7 @@ Draft --> Review --> Accepted --> Final
 |-----|-------|------|--------|
 | [NIP-0001](NIPs/nip-0001.md) | NIP Purpose and Guidelines | Process | Final |
 | [NIP-0002](NIPs/nip-0002.md) | Noven Fork Specification | Core | Final |
+| [NIP-0003](NIPs/nip-0003.md) | Native Chat Protocol | Standard | Draft |
 
 ## Resources
 
