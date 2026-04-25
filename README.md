@@ -41,7 +41,7 @@ Draft --> Review --> Accepted --> Final
 4. Submit a Pull Request
 5. The community and core team will review and discuss
 
-## Existing NIPs
+## Examples of Existing NIPs
 
 | NIP | Title | Type | Status |
 |-----|-------|------|--------|
